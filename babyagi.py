@@ -182,9 +182,8 @@ async def babysearch(query):
   # search_results = await baby_agi.search_internet(query, baby_agi.google_api_key, baby_agi.custom_search_engine_id)
 
   # save some API calls for dev - top 10 ramen
-  return load_json_file("./serp.json")
-
-  # search_results = await baby_agi.serp_internet(query, baby_agi.serp_api_key)
+  # return load_json_file("./serp.json")
+  search_results = await baby_agi.serp_internet(query, baby_agi.serp_api_key)
   print("[SEARCH] Results:", search_results)
   # return search_results
   return search_results

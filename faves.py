@@ -15,7 +15,6 @@ def add_favorite(username, favorite_data: Union[EventModel, PlaceModel], playlis
     elif isinstance(favorite_data, PlaceModel):
         favorite_data = favorite_data.dict()
 
-
     print("----> data:", favorite_data)
     favorite_key = favorite_data['name']
     # Add the favorite data to the user's favorites
