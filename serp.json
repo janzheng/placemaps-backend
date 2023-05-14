@@ -1,0 +1,486 @@
+{
+    "search_metadata": {
+        "id": "64604a7b7690dccd710b4081",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/75915d04abf30054/64604a7b7690dccd710b4081.json",
+        "created_at": "2023-05-14 02:42:03 UTC",
+        "processed_at": "2023-05-14 02:42:03 UTC",
+        "google_url": "https://www.google.com/search?q=top+10+ramen+in+Sydney&oq=top+10+ramen+in+Sydney&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/75915d04abf30054/64604a7b7690dccd710b4081.html",
+        "total_time_taken": 0.98
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "top 10 ramen in Sydney",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "top 10 ramen in Sydney",
+        "total_results": 15500000,
+        "time_taken_displayed": 0.52,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Images",
+                "link": "https://www.google.com/search?q=top+10+ramen+in+Sydney&tbm=isch&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQ0pQJegQIChAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=top+10+ramen+in+Sydney"
+            },
+            {
+                "position": 2,
+                "title": "Reddit",
+                "link": "https://www.google.com/search?q=Top+10+ramen+in+sydney+reddit&uds=ixGACiIKBnJlZGRpdBIWdG9wIDEwIHJhbWVuIGluIFN5ZG5leTASAw&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQxKsJegQICRAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Top+10+ramen+in+sydney+reddit"
+            },
+            {
+                "position": 3,
+                "title": "Chinatown",
+                "link": "https://www.google.com/search?q=Top+10+ramen+in+sydney+chinatown&uds=CxOACiUKCWNoaW5hdG93bhIWdG9wIDEwIHJhbWVuIGluIFN5ZG5leTASAw&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQxKsJegQIDBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Top+10+ramen+in+sydney+chinatown"
+            },
+            {
+                "position": 4,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?q=top+10+ramen+in+Sydney&tbm=shop&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQ0pQJegQICxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=top+10+ramen+in+Sydney"
+            },
+            {
+                "position": 5,
+                "title": "Cbd",
+                "link": "https://www.google.com/search?q=Top+10+ramen+in+sydney+cbd&uds=CxCACh8KA2NiZBIWdG9wIDEwIHJhbWVuIGluIFN5ZG5leTASAw&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQxKsJegQIXxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Top+10+ramen+in+sydney+cbd"
+            },
+            {
+                "position": 6,
+                "title": "Restaurants",
+                "link": "https://www.google.com/search?q=Top+10+ramen+in+sydney+restaurants&uds=CxSACicKC3Jlc3RhdXJhbnRzEhZ0b3AgMTAgcmFtZW4gaW4gU3lkbmV5MBID&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQxKsJegQIYBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Top+10+ramen+in+sydney+restaurants"
+            },
+            {
+                "position": 7,
+                "title": "News",
+                "link": "https://www.google.com/search?q=top+10+ramen+in+Sydney&tbm=nws&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQ0pQJegQIXhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=top+10+ramen+in+Sydney&tbm=nws"
+            },
+            {
+                "position": 8,
+                "title": "Videos",
+                "link": "https://www.google.com/search?q=top+10+ramen+in+Sydney&tbm=vid&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQ0pQJegQIXRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=top+10+ramen+in+Sydney"
+            },
+            {
+                "position": 9,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?output=search&q=top+10+ramen+in+Sydney&entry=mc&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQ0pQJegQIXBAB"
+            }
+        ]
+    },
+    "local_map": {
+        "link": "https://www.google.com/search?q=top+10+ramen+in+Sydney&npsic=0&rflfq=1&rldoc=1&rllag=-33877336,151209633,559&tbm=lcl&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQtgN6BAghEAE",
+        "image": "https://serpapi.com/searches/64604a7b7690dccd710b4081/images/5ec731792a2b0a2d5d59fbaaa79ca741.png",
+        "gps_coordinates": {
+            "latitude": -33.877336,
+            "longitude": 151.209633,
+            "altitude": 559
+        }
+    },
+    "local_results": {
+        "places": [
+            {
+                "position": 1,
+                "title": "Yasaka Ramen",
+                "rating": 4,
+                "reviews_original": "(1.9K)",
+                "reviews": 1900,
+                "price": "$$",
+                "address": "Sydney NSW, Australia",
+                "description": "Vivid, smart setting for Japanese food",
+                "place_id": "6065273864060918057",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=6065273864060918057&q=top+10+ramen+in+Sydney",
+                "lsig": "AB86z5VgseV0HU9mjxXdBejmpb7W",
+                "thumbnail": "https://serpapi.com/searches/64604a7b7690dccd710b4081/images/52f1dcd1248412287cce03a626449bc2f4f6fb63902302581baac0fb2bd6aa5e54f0623ecf3faecb.jpeg",
+                "gps_coordinates": {
+                    "latitude": -33.876556,
+                    "longitude": 151.20824
+                }
+            },
+            {
+                "position": 2,
+                "title": "Chaco Ramen",
+                "rating": 4.5,
+                "reviews_original": "(1.2K)",
+                "reviews": 1200,
+                "price": "$$",
+                "address": "Darlinghurst NSW, Australia",
+                "description": "\"Best ramen I have ever had, hands down\"",
+                "place_id": "17073068142631911401",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=17073068142631911401&q=top+10+ramen+in+Sydney",
+                "lsig": "AB86z5VfSs5wVCfNC6z5H92ISPoB",
+                "thumbnail": "https://serpapi.com/searches/64604a7b7690dccd710b4081/images/52f1dcd1248412287cce03a626449bc2adbfda3ed5650df2aa0a95b131bbe6e30bab0f640d3cab10.jpeg",
+                "gps_coordinates": {
+                    "latitude": -33.87817,
+                    "longitude": 151.21555
+                }
+            },
+            {
+                "position": 3,
+                "title": "Gumshara",
+                "rating": 4.4,
+                "reviews_original": "(1.9K)",
+                "reviews": 1900,
+                "price": "$",
+                "description": "\"Number 9 is the best ramen\"",
+                "place_id": "3178745530153157863",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=3178745530153157863&q=top+10+ramen+in+Sydney",
+                "lsig": "AB86z5XgPWYB6Cjn6J4FMoyibYzv",
+                "thumbnail": "https://serpapi.com/searches/64604a7b7690dccd710b4081/images/52f1dcd1248412287cce03a626449bc2836ba7af90bc9a9d7a87bb2d77e8f5fa00e024f23b9eaaad.jpeg",
+                "gps_coordinates": {
+                    "latitude": -33.877792,
+                    "longitude": 151.20366
+                }
+            }
+        ],
+        "more_locations_link": "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=top+10+ramen+in+Sydney&rflfq=1&num=10&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQjGp6BAgjEAE"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "25 Of The Best Spots For Ramen In Sydney Right Now",
+            "link": "https://www.theurbanlist.com/sydney/a-list/best-ramen-sydney",
+            "displayed_link": "https://www.theurbanlist.com › sydney › a-list › best-r...",
+            "date": "Jul 26, 2022",
+            "snippet": "Given that the best ramen is usually cooked up in the city, Kuroneko Ramen is a great choice for people down south. The spicy broth is rich in ...",
+            "snippet_highlighted_words": [
+                "best ramen",
+                "Ramen"
+            ],
+            "about_this_result": {
+                "keywords": [
+                    "top",
+                    "10",
+                    "ramen",
+                    "sydney"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:UmlGL7YtTiIJ:https://www.theurbanlist.com/sydney/a-list/best-ramen-sydney&cd=19&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.theurbanlist.com/sydney/a-list/best-ramen-sydney+top+10+ramen+in+Sydney",
+            "source": "The Urban List"
+        },
+        {
+            "position": 2,
+            "title": "13 Spots for the Best Ramen in Sydney",
+            "link": "https://manofmany.com/lifestyle/food/best-ramen-sydney",
+            "displayed_link": "https://manofmany.com › Lifestyle › Food",
+            "date": "Sep 26, 2022",
+            "rich_snippet": {
+                "bottom": {
+                    "questions": [
+                        "Where is the best ramen in Sydney?",
+                        "Where can I find affordable ramen in Sydney?"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "keywords": [
+                    "top",
+                    "10",
+                    "ramen",
+                    "sydney"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:i6nw3MkeJ24J:https://manofmany.com/lifestyle/food/best-ramen-sydney&cd=20&hl=en&ct=clnk&gl=us",
+            "related_questions": [
+                {
+                    "question": "Where is the best ramen in Sydney?",
+                    "snippet": "While there are many great spots for ramen in Sydney, the top-rated venue can be found at Chaco Ramen in Surry Hills."
+                },
+                {
+                    "question": "Where can I find affordable ramen in Sydney?",
+                    "snippet": "Motto Motto in Macquarie Park provides some of the most affordable ramen you can find in Sydney."
+                }
+            ],
+            "rich_snippet_list": [
+                "1. Ryo's Noodles",
+                "2. Gumshara",
+                "3. Gogyo",
+                "4. Menya Noodle Bar",
+                "5. Chaco Ramen",
+                "6. Rising Sun Workshop"
+            ],
+            "source": "Man of Many"
+        },
+        {
+            "position": 3,
+            "title": "The best ramen in Sydney",
+            "link": "https://www.timeout.com/sydney/restaurants/the-best-ramen-in-sydney",
+            "displayed_link": "https://www.timeout.com › sydney › restaurants › the-...",
+            "date": "Jul 1, 2022",
+            "about_this_result": {
+                "keywords": [
+                    "ramen",
+                    "sydney"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:b72fTMkfn68J:https://www.timeout.com/sydney/restaurants/the-best-ramen-in-sydney&cd=21&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.timeout.com/sydney/restaurants/the-best-ramen-in-sydney+top+10+ramen+in+Sydney",
+            "rich_snippet_list": [
+                "Gumshara",
+                "Mashi No Mashi",
+                "Gogyo",
+                "RaRa Redfern",
+                "Ryo's Noodles",
+                "Chaco Bar"
+            ],
+            "source": "Time Out"
+        },
+        {
+            "position": 4,
+            "title": "Best Ramen in Sydney",
+            "link": "https://www.broadsheet.com.au/sydney/guides/best-ramen",
+            "displayed_link": "https://www.broadsheet.com.au › sydney › guides › b...",
+            "about_this_result": {
+                "keywords": [
+                    "top",
+                    "ramen",
+                    "sydney"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Om9FrtBelI4J:https://www.broadsheet.com.au/sydney/guides/best-ramen&cd=22&hl=en&ct=clnk&gl=us",
+            "rich_snippet_list": [
+                "Chaco Ramen",
+                "Chaco Ramen Bondi",
+                "Gumshara Ramen",
+                "Ryo's Noodles",
+                "Ippudo CBD",
+                "Yasaka Ramen CBD",
+                "Gogyo",
+                "Senpai Ramen"
+            ],
+            "source": "Broadsheet"
+        },
+        {
+            "position": 5,
+            "title": "10 Excellent Spots For A Hearty Bowl Of Ramen In Sydney ...",
+            "link": "https://secretsydney.com/ramen-sydney/",
+            "displayed_link": "https://secretsydney.com › Food & Drink",
+            "snippet": "1. Gumshara ... Gumshara is as close to authentic as traditional Ramen gets here in Sydney. The popular spot probably has the most staunch and dedicated following ...",
+            "snippet_highlighted_words": [
+                "Ramen",
+                "Sydney"
+            ],
+            "about_this_result": {
+                "keywords": [
+                    "top",
+                    "10",
+                    "ramen",
+                    "sydney"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rjGCnE4XRjsJ:https://secretsydney.com/ramen-sydney/&cd=23&hl=en&ct=clnk&gl=us",
+            "source": "Secret Sydney"
+        },
+        {
+            "position": 6,
+            "title": "THE BEST Ramen in Sydney (Updated May 2023)",
+            "link": "https://www.tripadvisor.com/Restaurants-g255060-zfd11722-Sydney_New_South_Wales-Ramen.html",
+            "displayed_link": "https://www.tripadvisor.com › ... › Sydney Restaurants",
+            "snippet": "Sydney Ramen ; 1. Spice Alley ; 2. Kura Japanese Restaurant ; 3. Maki and Ramen ; 4. Sekka Dining ; 5. Gumshara Restaurant.",
+            "snippet_highlighted_words": [
+                "Sydney Ramen",
+                "Ramen"
+            ],
+            "about_this_result": {
+                "keywords": [
+                    "10",
+                    "ramen",
+                    "sydney"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2Wm-pI1gS3AJ:https://www.tripadvisor.com/Restaurants-g255060-zfd11722-Sydney_New_South_Wales-Ramen.html&cd=24&hl=en&ct=clnk&gl=us",
+            "source": "TripAdvisor"
+        },
+        {
+            "position": 7,
+            "title": "12 Best Ramen Restaurants In Sydney In 2023",
+            "link": "https://www.bosshunting.com.au/lifestyle/eat/best-ramen-sydney/",
+            "displayed_link": "https://www.bosshunting.com.au › Eat",
+            "date": "Mar 10, 2023",
+            "about_this_result": {
+                "keywords": [
+                    "top",
+                    "10",
+                    "ramen",
+                    "sydney"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BcDgZdkwh6IJ:https://www.bosshunting.com.au/lifestyle/eat/best-ramen-sydney/&cd=25&hl=en&ct=clnk&gl=us",
+            "rich_snippet_list": [
+                "Gumshara",
+                "Bones Ramen",
+                "Butter",
+                "Ramen Zundo",
+                "Umami Dojo",
+                "RaRa Ramen"
+            ],
+            "source": "Boss Hunting"
+        },
+        {
+            "position": 8,
+            "title": "The 15 Best Places for Ramen in Sydney",
+            "link": "https://foursquare.com/top-places/sydney/best-places-ramen",
+            "displayed_link": "https://foursquare.com › top-places › best-places-ramen",
+            "date": "Apr 27, 2023",
+            "snippet": "The 15 Best Places for Ramen in Sydney · 1. Ryo's Noodles. 8.2. 125 Falcon St. · 2. Manpuku. 8.7. 226 Victoria Ave, Chatswood, NSW · 3. Menya ...",
+            "snippet_highlighted_words": [
+                "Best",
+                "Ramen in Sydney"
+            ],
+            "about_this_result": {
+                "keywords": [
+                    "top",
+                    "10",
+                    "ramen",
+                    "sydney"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pj-bLHGpoSAJ:https://foursquare.com/top-places/sydney/best-places-ramen&cd=26&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://foursquare.com/top-places/sydney/best-places-ramen+top+10+ramen+in+Sydney",
+            "source": "Foursquare"
+        },
+        {
+            "position": 9,
+            "title": "The 13 Best Ramen Restaurants In Sydney - Eatability",
+            "link": "https://eatability.com.au/13-of-the-best-ramen-restaurants-in-sydney/",
+            "displayed_link": "https://eatability.com.au › 13-of-the-best-ramen-restau...",
+            "about_this_result": {
+                "keywords": [
+                    "top",
+                    "10",
+                    "ramen",
+                    "sydney"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:x4T9y2AmdG4J:https://eatability.com.au/13-of-the-best-ramen-restaurants-in-sydney/&cd=27&hl=en&ct=clnk&gl=us",
+            "rich_snippet_list": [
+                "1 Gumshara",
+                "2 Gogyo Surry Hills",
+                "3 RaRa Ramen",
+                "4 Lonely Mouth",
+                "5 Hakatamon Ramen",
+                "6 Ramen O-San",
+                "7 Chaco Ramen"
+            ],
+            "source": "eatability.com.au"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "late-night ramen sydney",
+            "link": "https://www.google.com/search?q=Late-night+ramen+Sydney&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "rara ramen",
+            "link": "https://www.google.com/search?q=RaRa+Ramen&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQ1QJ6BAglEAE"
+        },
+        {
+            "query": "ramen zundo",
+            "link": "https://www.google.com/search?q=Ramen+Zundo&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "best ramen",
+            "link": "https://www.google.com/search?q=Best+ramen&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQ1QJ6BAg7EAE"
+        },
+        {
+            "query": "ramen near me",
+            "link": "https://www.google.com/search?q=Ramen+near+me&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "ramen town hall",
+            "link": "https://www.google.com/search?q=Ramen+town+hall&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "best ramen near me",
+            "link": "https://www.google.com/search?q=Best+ramen+near+me&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "ramen north sydney",
+            "link": "https://www.google.com/search?q=Ramen+North+Sydney&sa=X&ved=2ahUKEwjc4ofE5PP-AhUtF1kFHR8YBuwQ1QJ6BAgxEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=top+10+ramen+in+Sydney&oq=top+10+ramen+in+Sydney&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=top+10+ramen+in+Sydney&oq=top+10+ramen+in+Sydney&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=top+10+ramen+in+Sydney&oq=top+10+ramen+in+Sydney&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=top+10+ramen+in+Sydney&oq=top+10+ramen+in+Sydney&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=top+10+ramen+in+Sydney&oq=top+10+ramen+in+Sydney&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=top+10+ramen+in+Sydney&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=top+10+ramen+in+Sydney&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=top+10+ramen+in+Sydney&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=top+10+ramen+in+Sydney&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=top+10+ramen+in+Sydney&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=top+10+ramen+in+Sydney&start=40"
+        }
+    }
+}

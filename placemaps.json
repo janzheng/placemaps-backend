@@ -1,0 +1,101 @@
+[
+  {
+    "key": "place-Sydney Harbour Bridge",
+    "data": {
+      "id": "ChIJ49XqJV2uEmsRPsTAF7eOlGg",
+      "name": "Sydney Harbour Bridge",
+      "address": "Sydney Harbour Bridge, Sydney NSW, Australia",
+      "description": "",
+      "rating": "4.7",
+      "tags": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "http://australia.gov.au/about-australia/australian-story/sydney-harbour-bridge",
+      "platform_url": "https://maps.google.com/?cid=7535804993526350910",
+      "lat": -33.8523063,
+      "lng": 151.2107871
+    }
+  },
+  {
+    "key": "place-The Rocks Markets",
+    "data": {
+      "id": "ChIJNcXcR12uEmsRkpSvsrO--1g",
+      "name": "The Rocks Market",
+      "address": "George St, The Rocks NSW 2000, Australia",
+      "description": "",
+      "rating": "4.4",
+      "tags": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "http://www.therocks.com/things-to-do/the-rocks-markets/",
+      "platform_url": "https://maps.google.com/?cid=6411928173498307730",
+      "lat": -33.8577866,
+      "lng": 151.2085595
+    }
+  },
+  {
+    "key": "place-Museum of Contemporary Art Australia",
+    "data": {
+      "id": "ChIJ68aBlEKuEmsRHUA9oME5Zh0",
+      "name": "Museum of Contemporary Art Australia",
+      "address": "140 George St, The Rocks NSW 2000, Australia",
+      "description": "",
+      "rating": "4.4",
+      "tags": [
+        "tourist_attraction",
+        "art_gallery",
+        "cafe",
+        "museum",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://www.mca.com.au/",
+      "platform_url": "https://maps.google.com/?cid=2118444178504237085",
+      "lat": -33.8599358,
+      "lng": 151.2090295
+    }
+  },
+  {
+    "key": "place-Pylon Lookout",
+    "data": {
+      "id": "ChIJyZYRBUOuEmsRUMNxo-IZIAs",
+      "name": "Pylon Lookout",
+      "address": "Sydney Harbour Bridge, The Rocks NSW 2000, Australia",
+      "description": "",
+      "rating": "4.7",
+      "tags": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://pylonlookout.com.au/",
+      "platform_url": "https://maps.google.com/?cid=801669194867393360",
+      "lat": -33.8543819,
+      "lng": 151.2095372
+    }
+  },
+  {
+    "key": "place-Queen Victoria Building",
+    "data": {
+      "id": "ChIJISz8NjyuEmsRFTQ9Iw7Ear8",
+      "name": "Queen Victoria Building",
+      "address": "455 George St, Sydney NSW 2000, Australia",
+      "description": "",
+      "rating": "4.5",
+      "tags": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://www.qvb.com.au/",
+      "platform_url": "https://maps.google.com/?cid=13793052373775365141",
+      "lat": -33.871722,
+      "lng": 151.2067078
+    }
+  }
+]

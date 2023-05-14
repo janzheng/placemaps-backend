@@ -1,0 +1,124 @@
+[
+  {
+    "key": "event-Vivid Sydney",
+    "data": {
+      "type": "event",
+      "name": "Vivid Sydney",
+      "location": "Sydney",
+      "date": "2023-06-25",
+      "time": "18:00",
+      "description": "Light, Music and Ideas Festival"
+    }
+  },
+  {
+    "key": "place-Sydney Harbour Bridge",
+    "data": {
+      "type": "place",
+      "name": "Sydney Harbour Bridge",
+      "location": "Sydney",
+      "category": "Bridge",
+      "description": "Highly recommended. An integral part of any visit to Sydney and worth taking a drive over the bridge to the northern parts of Sydney including Manly.",
+      "highlights": [
+        "Must go",
+        "Show 2 more"
+      ],
+      "rating": 4.8,
+      "keywords": [
+        "Bridge Climb",
+        "Pylon Lookout"
+      ]
+    }
+  },
+  {
+    "key": "event-Sydney Film Festival",
+    "data": {
+      "type": "event",
+      "name": "Sydney Film Festival",
+      "location": "Sydney",
+      "date": "2023-07-05",
+      "time": "19:00",
+      "description": "Film Festival"
+    }
+  },
+  {
+    "key": "place-The Rocks",
+    "data": {
+      "type": "place",
+      "name": "The Rocks",
+      "location": "Sydney",
+      "category": "Sights & Landmarks",
+      "description": "Highly recommended. The area around The Rocks is key to any visit to Sydney with its markets, history, restaurants, shopping and much more. Also a key transport hub within the inner city.",
+      "highlights": [
+        "Must go"
+      ],
+      "rating": 4.6,
+      "keywords": [
+        "The Rocks Markets",
+        "Discovery Museum",
+        "Cadman's Cottage"
+      ]
+    }
+  },
+  {
+    "key": "place-Museum of Contemporary Art Australia",
+    "data": {
+      "type": "place",
+      "name": "Museum of Contemporary Art Australia",
+      "location": "Sydney",
+      "category": "Art museum",
+      "description": "Located on George Street in Sydney's The Rocks neighbourhood, the museum is solely dedicated to exhibiting, interpreting, and collecting contemporary art, from across Australia and around the world.",
+      "keywords": [
+        "Museums",
+        "Show 4 more"
+      ],
+      "rating": 4.4
+    }
+  },
+  {
+    "key": "event-Sydney Mardi Gras",
+    "data": {
+      "type": "event",
+      "name": "Sydney Mardi Gras",
+      "location": "Sydney",
+      "date": "2023-02-18",
+      "time": "16:00",
+      "description": "LGBTQ+ Parade and Party"
+    }
+  },
+  {
+    "key": "place-Pylon Lookout",
+    "data": {
+      "type": "place",
+      "name": "Pylon Lookout",
+      "location": "Sydney",
+      "category": "Vista point",
+      "description": "One of the ongoing tourist attractions of the bridge has been the south-east pylon, which is accessed via the pedestrian walkway across the bridge, and then a climb to the top of the pylon of about 200 steps.",
+      "highlights": [
+        "Sights & Landmarks"
+      ],
+      "rating": 4.5,
+      "keywords": [
+        "Pylon Lookout"
+      ]
+    }
+  },
+  {
+    "key": "place-Port Jackson Bay",
+    "data": {
+      "type": "place",
+      "name": "Port Jackson Bay",
+      "location": "Sydney",
+      "category": "Bay",
+      "description": "Highly recommended. A harbour boat trip from Circular Quay is a highlight for any visitor to Sydney and the views of the city are stunning. It is possible to include Manly and Darling Harbour in the trip as well.",
+      "highlights": [
+        "Must go"
+      ],
+      "rating": 4.7,
+      "keywords": [
+        "Wikipedia",
+        "Fort Denison",
+        "Shark Island"
+      ]
+    }
+  }
+]

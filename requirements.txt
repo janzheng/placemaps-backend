@@ -1,0 +1,11 @@
+fastapi
+langchain
+chromadb
+pinecone-client 
+python-dotenv
+google-search-results
+uvicorn
+typing
+openai==0.27.4
+flask
+flask-cors
