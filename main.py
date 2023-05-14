@@ -140,7 +140,9 @@ async def chat(prompt):
         # Perform the desired action for "search"
         print("Performing search action.")
         searches = await babysearch(aijson["query"])
-        aijson["results"] = searches
+        local = searches["local_results"]
+        localres = chat_model.predict_messages([HumanMessage(content=f"{local} please summarize the result in context of the following prompt: {prompt}")])
+        aijson["results"] = localres.content
 
       elif action == "list_favorites":
         if "playlist" in aijson:
@@ -201,10 +203,14 @@ async def _get_search(query: str):
 
 
 @app.get("/chat/")
-async def _chat(prompt: str):
+async def _chat(prompt: str, mode: str = None):
   # response["Access-Control-Allow-Origin"] = "*"
   print("chat/prompt:", prompt)
   results = await chat(prompt)
+  if mode == "content":
+    results = results["results"]
+    print("---->", results)
+    
   return results
 
 
